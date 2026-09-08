@@ -5,7 +5,6 @@
 > **Pronunciation guide:** The pronunciation spellings are approximate English-friendly guides to help with speaking. They are not IPA.
 
 ---
-
 ## 1. Basic Pronunciation Rules
 
 ### Final consonants
@@ -175,6 +174,10 @@ Haïti   → Ha-ï-ti   → ah-ee-TEE
 
 **🗣 Pronunciation:** **eel eh par-FWA ay-go-EEST, meh eel eh-SAY duh pahn-SAY oh-ZO-truh**
 
+
+
+
+
 ---
 
 # 🎯 TEF Speaking Connection
@@ -209,14 +212,4 @@ Say these aloud without stopping:
 
 ---
 
-## Tutor Notes / Corrections Made
 
-This section distinguishes additions and corrections from the original class notes.
-
-- Corrected spelling such as **élève**, **pronunciation**, and formatting inconsistencies.
-- Clarified that final-consonant and CRFL rules are useful guidelines rather than absolute rules.
-- Corrected **sûreté** to feminine: **la sûreté**.
-- Clarified **médecin** and **élève** as nouns that can refer to either gender.
-- Clarified **collège**: in France it commonly means **middle school**.
-- Filled the missing meanings and pronunciations in the **Tréma** section.
-- Added pronunciation guides, visual memory aids, sentence examples, and a TEF-speaking connection.
