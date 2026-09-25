@@ -409,7 +409,7 @@ Examples:
 - **viennent** → **vyen**
 - **prennent** → **pren**
 
-> **Tutor correction:** **viennent** is **not** pronounced like “vee-ahng.” The doubled **nn** prevents the vowel from behaving like normal nasal **en**.
+>** **viennent** is **not** pronounced like “vee-ahng.” The doubled **nn** prevents the vowel from behaving like normal nasal **en**.
 
 ---
 
@@ -614,6 +614,29 @@ Examples:
 
 > Class section reserved for your number notes.
 
+0 - zéro                   
+1 - un/une
+2 - deux
+3 - trois
+4 - quatre
+5 - cinq
+6 - six
+7 - sept
+8 - huit
+9 - neuf 
+10 - dix
+11  - onze
+12 - douze
+13 - trinze
+14 - quatorze
+15 - cincante
+16 - seixe
+17 - dix-sept
+18 - dix-huit
+19- dix-neuf
+20 - vingt
+21 - vingt-te-un
+22- vingt - duex
 ---
 
 # 6. Le passé récent
@@ -691,6 +714,22 @@ Je viens de finir.      ✅
 Do not conjugate the second verb.
 
 ---
+
+# Relative pronouns 
+
+- egs: 1. The book that I bought is quite helpful. 
+
+2. The teacher 
+- ![[Pasted image 20260914081257.png]]
+---
+
+
+
+
+
+
+
+
 
 # 🎯 TEF Speaking Connection
 
