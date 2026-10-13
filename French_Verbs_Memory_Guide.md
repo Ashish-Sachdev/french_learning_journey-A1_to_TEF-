@@ -103,6 +103,15 @@ Learn each verb in this order:
 **Example:** Je veux apprendre le français.  
 **English:** I want to learn French.
 
+### 07. recevoir — to receive
+
+**Present:** reçois · reçois · reçoit · recevons · recevez · reçoivent
+
+**Memory connection / tip:** Connect to receive. The ç keeps a soft s sound before o; nous/vous return to recev-.
+
+**Example:** Je reçois un message.  
+**English:** I receive a message.
+
 ### 07. devoir — must / to have to / to owe
 
 **Present:** dois · dois · doit · devons · devez · doivent
@@ -282,16 +291,6 @@ Learn each verb in this order:
 
 **Example:** Je perds souvent mes clés.  
 **English:** I often lose my keys.
-
-### 27. recevoir — to receive
-
-**Present:** reçois · reçois · reçoit · recevons · recevez · reçoivent
-
-**Memory connection / tip:** Connect to receive. The ç keeps a soft s sound before o; nous/vous return to recev-.
-
-**Example:** Je reçois un message.  
-**English:** I receive a message.
-
 ### 28. suivre — to follow
 
 **Present:** suis · suis · suit · suivons · suivez · suivent
@@ -448,41 +447,41 @@ Fill the blanks without looking at the reference table.
 
 For compactness, the table lists forms without repeating the pronouns. For example, the avoir entry ai means **j’ai**.
 
-| Verb | English | je / j’ | tu | il/elle/on | nous | vous | ils/elles |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| être | to be | suis | es | est | sommes | êtes | sont |
-| avoir | to have | ai | as | a | avons | avez | ont |
-| aller | to go | vais | vas | va | allons | allez | vont |
-| faire | to do / to make | fais | fais | fait | faisons | faites | font |
-| pouvoir | can / to be able to | peux | peux | peut | pouvons | pouvez | peuvent |
-| vouloir | to want | veux | veux | veut | voulons | voulez | veulent |
-| devoir | must / to have to / to owe | dois | dois | doit | devons | devez | doivent |
-| savoir | to know a fact / to know how | sais | sais | sait | savons | savez | savent |
-| connaître | to know / to be familiar with | connais | connais | connaît | connaissons | connaissez | connaissent |
-| venir | to come | viens | viens | vient | venons | venez | viennent |
-| tenir | to hold / to keep | tiens | tiens | tient | tenons | tenez | tiennent |
-| prendre | to take | prends | prends | prend | prenons | prenez | prennent |
-| apprendre | to learn / to teach | apprends | apprends | apprend | apprenons | apprenez | apprennent |
-| comprendre | to understand | comprends | comprends | comprend | comprenons | comprenez | comprennent |
-| mettre | to put / to put on | mets | mets | met | mettons | mettez | mettent |
-| dire | to say / to tell | dis | dis | dit | disons | dites | disent |
-| lire | to read | lis | lis | lit | lisons | lisez | lisent |
-| écrire | to write | écris | écris | écrit | écrivons | écrivez | écrivent |
-| voir | to see | vois | vois | voit | voyons | voyez | voient |
-| croire | to believe / to think | crois | crois | croit | croyons | croyez | croient |
-| boire | to drink | bois | bois | boit | buvons | buvez | boivent |
-| vivre | to live | vis | vis | vit | vivons | vivez | vivent |
-| attendre | to wait / to wait for | attends | attends | attend | attendons | attendez | attendent |
-| entendre | to hear | entends | entends | entend | entendons | entendez | entendent |
-| répondre | to answer / to reply | réponds | réponds | répond | répondons | répondez | répondent |
-| perdre | to lose | perds | perds | perd | perdons | perdez | perdent |
-| recevoir | to receive | reçois | reçois | reçoit | recevons | recevez | reçoivent |
-| suivre | to follow | suis | suis | suit | suivons | suivez | suivent |
-| dormir | to sleep | dors | dors | dort | dormons | dormez | dorment |
-| partir | to leave / to depart | pars | pars | part | partons | partez | partent |
-| sortir | to go out / to exit | sors | sors | sort | sortons | sortez | sortent |
-| sentir | to smell / to feel | sens | sens | sent | sentons | sentez | sentent |
-| ouvrir | to open | ouvre | ouvres | ouvre | ouvrons | ouvrez | ouvrent |
-| offrir | to offer / to give as a gift | offre | offres | offre | offrons | offrez | offrent |
-| courir | to run | cours | cours | court | courons | courez | courent |
-| conduire | to drive / to lead | conduis | conduis | conduit | conduisons | conduisez | conduisent |
+| Verb       | English                       | je / j’   | tu        | il/elle/on | nous        | vous       | ils/elles   |
+| ---------- | ----------------------------- | --------- | --------- | ---------- | ----------- | ---------- | ----------- |
+| être       | to be                         | suis      | es        | est        | sommes      | êtes       | sont        |
+| avoir      | to have                       | ai        | as        | a          | avons       | avez       | ont         |
+| aller      | to go                         | vais      | vas       | va         | allons      | allez      | vont        |
+| faire      | to do / to make               | fais      | fais      | fait       | faisons     | faites     | font        |
+| pouvoir    | can / to be able to           | peux      | peux      | peut       | pouvons     | pouvez     | peuvent     |
+| vouloir    | to want                       | veux      | veux      | veut       | voulons     | voulez     | veulent     |
+| devoir     | must / to have to / to owe    | dois      | dois      | doit       | devons      | devez      | doivent     |
+| savoir     | to know a fact / to know how  | sais      | sais      | sait       | savons      | savez      | savent      |
+| connaître  | to know / to be familiar with | connais   | connais   | connaît    | connaissons | connaissez | connaissent |
+| venir      | to come                       | viens     | viens     | vient      | venons      | venez      | viennent    |
+| tenir      | to hold / to keep             | tiens     | tiens     | tient      | tenons      | tenez      | tiennent    |
+| prendre    | to take                       | prends    | prends    | prend      | prenons     | prenez     | prennent    |
+| apprendre  | to learn / to teach           | apprends  | apprends  | apprend    | apprenons   | apprenez   | apprennent  |
+| comprendre | to understand                 | comprends | comprends | comprend   | comprenons  | comprenez  | comprennent |
+| mettre     | to put / to put on            | mets      | mets      | met        | mettons     | mettez     | mettent     |
+| dire       | to say / to tell              | dis       | dis       | dit        | disons      | dites      | disent      |
+| lire       | to read                       | lis       | lis       | lit        | lisons      | lisez      | lisent      |
+| écrire     | to write                      | écris     | écris     | écrit      | écrivons    | écrivez    | écrivent    |
+| voir       | to see                        | vois      | vois      | voit       | voyons      | voyez      | voient      |
+| croire     | to believe / to think         | crois     | crois     | croit      | croyons     | croyez     | croient     |
+| boire      | to drink                      | bois      | bois      | boit       | buvons      | buvez      | boivent     |
+| vivre      | to live                       | vis       | vis       | vit        | vivons      | vivez      | vivent      |
+| attendre   | to wait / to wait for         | attends   | attends   | attend     | attendons   | attendez   | attendent   |
+| entendre   | to hear                       | entends   | entends   | entend     | entendons   | entendez   | entendent   |
+| répondre   | to answer / to reply          | réponds   | réponds   | répond     | répondons   | répondez   | répondent   |
+| perdre     | to lose                       | perds     | perds     | perd       | perdons     | perdez     | perdent     |
+| recevoir   | to receive                    | reçois    | reçois    | reçoit     | recevons    | recevez    | reçoivent   |
+| suivre     | to follow                     | suis      | suis      | suit       | suivons     | suivez     | suivent     |
+| dormir     | to sleep                      | dors      | dors      | dort       | dormons     | dormez     | dorment     |
+| partir     | to leave / to depart          | pars      | pars      | part       | partons     | partez     | partent     |
+| sortir     | to go out / to exit           | sors      | sors      | sort       | sortons     | sortez     | sortent     |
+| sentir     | to smell / to feel            | sens      | sens      | sent       | sentons     | sentez     | sentent     |
+| ouvrir     | to open                       | ouvre     | ouvres    | ouvre      | ouvrons     | ouvrez     | ouvrent     |
+| offrir     | to offer / to give as a gift  | offre     | offres    | offre      | offrons     | offrez     | offrent     |
+| courir     | to run                        | cours     | cours     | court      | courons     | courez     | courent     |
+| conduire   | to drive / to lead            | conduis   | conduis   | conduit    | conduisons  | conduisez  | conduisent  |
