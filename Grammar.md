@@ -1,7 +1,16 @@
-# French Questions — A1 Revision Notes
-*Based on Clem's two PDFs and our practice in this chat. English explanations and extra examples are Tutor Additions.*
+# French Grammar — A1 Revision Notes
+*Organized into three main sections, one for each of Clem's three PDFs. English explanations and extra examples are Tutor Additions.*
 
-## 1. Three ways to ask yes/no questions
+## Contents
+1. [Forming Interrogative Sentences](#1-forming-interrogative-sentences)
+2. [Interrogative Words](#2-interrogative-words)
+3. [Prepositions of Location](#3-prepositions-of-location)
+
+---
+
+## 1. Forming Interrogative Sentences
+
+### Three ways to ask yes/no questions
 
 Statement: **Tu parles français.** — You speak French.
 
@@ -19,7 +28,11 @@ Statement: **Tu parles français.** — You speak French.
 
 **Your practice:** 18/18 question structures correct across two sets. Minor writing reminders: **Ils habitent au Canada ?** needs `?`; **Toronto** starts with a capital letter. **Français** (language) ≠ **française** (feminine adjective).
 
-## 2. Interrogative words — quick reference (PDF 2)
+---
+
+## 2. Interrogative Words
+
+### Quick reference
 
 | Word | Meaning | A1 example |
 |---|---|---|
@@ -44,7 +57,7 @@ Statement: **Tu parles français.** — You speak French.
 
 **Useful distinctions:** **Qui** asks about a person; **que/quoi** about a thing. **Combien de + noun**: **Combien de frères ?** (How many brothers?).
 
-## 3. Quel / quelle / quels / quelles — which / what (Tutor Addition)
+### Quel / quelle / quels / quelles — which / what (Tutor Addition)
 
 **Quel** changes to match the noun's gender and number.
 
@@ -63,7 +76,7 @@ Everyday questions: **Quel âge as-tu ?** (How old are you?); **Quel est ton pr�
 
 **Lequel** forms (PDF 2): **lequel** (m. singular), **laquelle** (f. singular), **lesquels** (m. plural), **lesquelles** (f. plural). Correct spelling: **laquelle**, not *laquel*; **lequel**, not *lequelle*.
 
-## 4. Parler à quelqu'un vs parler de quelqu'un (Tutor Addition)
+### Parler à quelqu'un vs parler de quelqu'un (Tutor Addition)
 
 **Quelqu'un** = someone.
 
@@ -78,7 +91,7 @@ Everyday questions: **Quel âge as-tu ?** (How old are you?); **Quel est ton pr�
 - **de + le = du**: **Je parle du professeur.**
 - Compare **à qui** (person) with **à quoi** (thing): **À qui penses-tu ?** (Who are you thinking about?) / **À quoi penses-tu ?** (What are you thinking about?).
 
-## 5. Common mistakes and pronunciation
+### Common mistakes and pronunciation
 
 | Avoid | Use | Why |
 |---|---|---|
@@ -90,7 +103,7 @@ Everyday questions: **Quel âge as-tu ?** (How old are you?); **Quel est ton pr�
 
 Approximate sounds (Tutor Addition): **où** = *oo*; **quel/quelle/quels/quelles** = *kel*; **à qui** = *ah kee*; **de qui** = *duh kee*. These are listening aids, not exact phonetic transcriptions.
 
-## 6. Short A1 practice
+### Short A1 practice
 
 Translate into French:
 1. Do you have a car? (**est-ce que**)
@@ -115,13 +128,9 @@ For now, practise **three yes/no methods**, **où**, **qui**, **quel/quelle**, a
 
 ---
 
----
+## 3. Prepositions of Location — Les prépositions de lieu
 
-# Part II — Location & Describing Places
-
-> **New grammar topic · Clem's lesson · A1**
-
-## 7. Les prépositions de lieu — Prepositions of Location (Clem, 2026-10-13)
+*Source: Clem's Prepositions of Location.pdf · A1 · 2026-10-13*
 
 **Source:** Clem's *Prepositions of Location.pdf*. The 17 prepositions are from the lecture; everyday examples, comparisons, and exercises are **Tutor Additions**.
 
@@ -210,6 +219,8 @@ Translate to French:
 6. **Le jardin est derrière la maison.**
 
 **Study first:** dans, sur, sous, devant, derrière, à côté de, près de, entre. Learn the other nine gradually.
+
+---
 
 ## Update log
 - **2026-10-13:** Added Clem's 17 location prepositions, A1 examples and English translations, article combinations, common mistakes, dialogues, and exercises.
