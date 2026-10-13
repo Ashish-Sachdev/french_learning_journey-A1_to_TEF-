@@ -115,6 +115,12 @@ For now, practise **three yes/no methods**, **où**, **qui**, **quel/quelle**, a
 
 ---
 
+---
+
+# Part II — Location & Describing Places
+
+> **New grammar topic · Clem's lesson · A1**
+
 ## 7. Les prépositions de lieu — Prepositions of Location (Clem, 2026-10-13)
 
 **Source:** Clem's *Prepositions of Location.pdf*. The 17 prepositions are from the lecture; everyday examples, comparisons, and exercises are **Tutor Additions**.
